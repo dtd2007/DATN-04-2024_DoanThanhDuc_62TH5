@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Khoqua</string>
+    <string name="title_activity_login">activity_login</string>
+    <string name="signup_register_button">Bạn có tài khoản rồi? <b>Đăng nhập ngay</b></string>
+    <string name="login_register_button">Chưa có tài khoản? <b>Đăng ký ngay</b></string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
